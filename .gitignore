@@ -1,0 +1,7 @@
+*.pdf
+*.agdai
+*~
+*.aux
+*#
+./TakeHomeExam2012/submit
+./Homework120920/lagda/
